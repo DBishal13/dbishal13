@@ -1,9 +1,7 @@
 ### Welcome to my LinkedIn profile
-[![GitHub Badge](https://img.shields.io/github/followers/pratik-tan10?style=social)]
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)]
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io/bdhungana.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dbishal13.github.io)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DBishal13.github.io)
 ## Introduction
 
 I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems, flood modeling and mapping, remote sensing, and spatial data analysis. I am always looking for collaboration opportunities for work or research in these fields.
