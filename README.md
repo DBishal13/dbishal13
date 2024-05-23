@@ -2,8 +2,9 @@
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
 <a href="https://www.coursera.org/learner/gisus" target="_blank">
-    <img src="[https://images.credly.com/size/200x200/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png](https://cdn.cookielaw.org/logos/3e5657ed-0ab7-410b-95c6-ac68153c5668/a5631904-c2e8-407c-8481-ac7ee7f58040/830d9fa8-2c14-45a7-8afa-abc4792137f2/coursera-logo-full-rgb.png)" alt="Coursera Badge" style="width: 30px; height: 30px;">
+    <img src="https://cdn.cookielaw.org/logos/3e5657ed-0ab7-410b-95c6-ac68153c5668/a5631904-c2e8-407c-8481-ac7ee7f58040/830d9fa8-2c14-45a7-8afa-abc4792137f2/coursera-logo-full-rgb.png/" alt="Coursera Badge" style="width: 30px; height: 30px;">
 </a>
+
 
 ## Introduction
 
