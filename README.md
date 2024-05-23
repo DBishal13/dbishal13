@@ -7,7 +7,9 @@
 
 ## Introduction
 
-I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems, flood modeling and mapping, remote sensing, and spatial data analysis. I always seek collaboration opportunities for work or research in these fields.
+I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems (GIS), flood modeling and mapping, remote sensing, and spatial data analysis. I am passionate about leveraging GIS technology to solve real-world problems and actively seek collaboration opportunities for work or research in these fields. 
+
+I am open to GIS-related job opportunities and am particularly interested in roles that involve GIS development, spatial data analysis, and remote sensing. Please get in touch with me if you are looking for a dedicated and skilled GIS professional.
 
 ## Featured Projects
 -[Using GIS to address climate change](https://storymaps.arcgis.com/stories/548bdbe9801d4c01a894ffd7b5f58472).
