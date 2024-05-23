@@ -1,7 +1,7 @@
 ### Welcome to my LinkedIn profile
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
-[![Coursera Badge](https://images.credly.com/size/200x200/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png)](https://www.coursera.org/learner/gisus)
+[![Coursera Badge](Coursera Profile)](https://www.coursera.org/learner/gisus)
 ## Introduction
 
 I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems, flood modeling and mapping, remote sensing, and spatial data analysis. I always seek collaboration opportunities for work or research in these fields.
