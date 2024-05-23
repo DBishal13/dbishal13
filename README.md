@@ -2,7 +2,7 @@
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
 <a href="https://www.coursera.org/learner/gisus" target="_blank">
-    <img src="https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/coursera-logo-full-rgb.2e16d0ba.fill-444x144.format-jpeg.jpg" alt="Coursera" style="width: 70px; height: 30px;">
+    <img src="https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/coursera-logo-full-rgb.2e16d0ba.fill-444x144.format-jpeg.jpg" alt="Coursera" style="width: 70px; height: 20px;">
 </a>
 
 ## Introduction
