@@ -1,6 +1,7 @@
 ### Welcome to my LinkedIn profile
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
