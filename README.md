@@ -1,7 +1,10 @@
 ### Welcome to my LinkedIn profile
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
-[![Coursera Badge](Coursera_Profile)](https://www.coursera.org/learner/gisus)
+<a href="https://www.coursera.org/learner/gisus" target="_blank">
+    <img src="https://www.reddit.com/r/coursera/comments/10mmqry/coursera_credly_badges_how_much_do_they_count/" alt="Coursera Badge" style="width: 30px; height: 30px;">
+</a>
+
 ## Introduction
 
 I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems, flood modeling and mapping, remote sensing, and spatial data analysis. I always seek collaboration opportunities for work or research in these fields.
