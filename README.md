@@ -12,7 +12,7 @@ I am a graduate student in the Department of Geosciences at Florida Atlantic Uni
 I am open to GIS-related job opportunities and am particularly interested in roles that involve GIS development, spatial data analysis, and remote sensing. Please get in touch with me if you are looking for a dedicated and skilled GIS professional.
 
 ## Featured Projects
-- [Watershed Management Plan for Sarasota City, FL](https://storymaps.arcgis.com/stories/a4a1197b765e4cfbb8bdbe4ce0fcaa35)
+-[Watershed Management Plan for Sarasota City, FL](https://storymaps.arcgis.com/stories/a4a1197b765e4cfbb8bdbe4ce0fcaa35)
 
 -[Using GIS to address climate change](https://storymaps.arcgis.com/stories/548bdbe9801d4c01a894ffd7b5f58472).
 
