@@ -14,7 +14,7 @@ I am open to GIS-related job opportunities and am particularly interested in rol
 ## Featured Projects
 -[Using GIS to address climate change](https://storymaps.arcgis.com/stories/548bdbe9801d4c01a894ffd7b5f58472).
 
--[Visualization of Florida PM2.5 Daily Average](https://www.arcgis.com/apps/dashboards/86dded39a6a54a189f41cbf08cc29e67).
+-[Visualization of Florida PM2.5 Daily Average](https://github.com/DBishal13/Air-Pollution-in-Florida).
 
 -[Predictive Modeling of Voter Turnout (2016) Distribution](https://github.com/DBishal13/Voter-Turnout-Prediction-Florida).
 
