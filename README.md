@@ -7,9 +7,14 @@
 
 ## Introduction
 
-I am a graduate student in the Department of Geosciences at Florida Atlantic University, Boca Raton, Florida. My research interests include geographic information systems (GIS), flood modeling and mapping, remote sensing, and spatial data analysis. I am passionate about leveraging GIS technology to solve real-world problems and actively seek collaboration opportunities for work or research in these fields. 
-
-I am open to GIS-related job opportunities and am particularly interested in roles that involve GIS development, spatial data analysis, and remote sensing. Please get in touch with me if you are looking for a dedicated and skilled GIS professional.
+I’m a Geospatial Data Scientist, a recent Geoscience graduate, and a dedicated Geomatics Engineer with a deep focus on GIS, remote sensing, and geoAI. 
+		My journey has been fueled by a strong curiosity about the Earth’s dynamic systems and a desire to use technology to address complex environmental challenges.
+		With a solid foundation in Python, PostgreSQL/PostGIS, WebGIS, ArcGIS, LiDAR, machine learning, and cloud computing (AWS), 
+		I specialize in transforming geospatial data into actionable insights for natural hazard assessment, infrastructure resilience, and sustainable development.
+		I’ve built tools for automated LiDAR classification, interactive web mapping, and cloud-optimized geospatial workflows, working at the intersection of data science and environmental impact.
+		My research interests are understanding how geospatial technologies can advance environmental justice, particularly in supporting equitable disaster response and resilience planning for vulnerable communities.
+		My ultimate goal is to leverage geospatial intelligence to bridge the gap between science, policy, and people, empowering decision-makers with data that matters.
+  I am open to provide GIS-related services and am particularly interested in works that involve GIS development, spatial data analysis, and remote sensing. Please get in touch with me if you are looking for a dedicated and skilled GIS professional for collaboration.
 
 ## Featured Projects
 - [Watershed Management Plan for Sarasota City, FL](https://storymaps.arcgis.com/stories/a4a1197b765e4cfbb8bdbe4ce0fcaa35)
