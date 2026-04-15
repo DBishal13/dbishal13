@@ -7,14 +7,10 @@
 
 ## Introduction
 
-I’m a Geospatial Data Scientist, a recent Geoscience graduate, and a dedicated Geomatics Engineer with a deep focus on GIS, remote sensing, and geoAI. 
-		My journey has been fueled by a strong curiosity about the Earth’s dynamic systems and a desire to use technology to address complex environmental challenges.
-		With a solid foundation in Python, PostgreSQL/PostGIS, WebGIS, ArcGIS, LiDAR, machine learning, and cloud computing (AWS), 
-		I specialize in transforming geospatial data into actionable insights for natural hazard assessment, infrastructure resilience, and sustainable development.
-		I’ve built tools for automated LiDAR classification, interactive web mapping, and cloud-optimized geospatial workflows, working at the intersection of data science and environmental impact.
-		My research interests are understanding how geospatial technologies can advance environmental justice, particularly in supporting equitable disaster response and resilience planning for vulnerable communities.
-		My ultimate goal is to leverage geospatial intelligence to bridge the gap between science, policy, and people, empowering decision-makers with data that matters.
-  I am open to provide GIS-related services and am particularly interested in works that involve GIS development, spatial data analysis, and remote sensing. Please get in touch with me if you are looking for a dedicated and skilled GIS professional for collaboration.
+I’m a Senior AI & Geospatial Data Scientist specializing in computer vision, GeoAI, and large‑scale geospatial systems. My work sits at the intersection of deep learning, LiDAR analytics, and cloud‑native geospatial engineering — building production‑grade pipelines that support power grid intelligence, infrastructure resilience, and enterprise‑level decision‑making.
+I lead development of end‑to‑end AI/ML workflows, including image recognition models, LiDAR/point‑cloud processing, and scalable geospatial data pipelines using Python, PyTorch/TensorFlow, PDAL, PostgreSQL/PostGIS, and AWS (Lambda, S3, EC2, SageMaker, ECR/ECS). I also architect and maintain GIS applications and APIs built on the Esri ecosystem, enabling interactive mapping, automated data ingestion, and high‑performance spatial analytics.
+My interests center on how GeoAI, remote sensing, and distributed geospatial systems can drive smarter infrastructure, environmental resilience, and equitable disaster response. I enjoy building tools that turn massive spatial datasets into actionable intelligence — from automated LiDAR classification to cloud‑optimized geospatial workflows and interactive web mapping solutions.
+I’m open to collaboration on projects involving GIS development, spatial data engineering, computer vision, and remote sensing. If you’re looking for someone who can design, build, and scale geospatial intelligence systems end‑to‑end, feel free to reach out.
 
 ## Featured Projects
 - [Watershed Management Plan for Sarasota City, FL](https://storymaps.arcgis.com/stories/a4a1197b765e4cfbb8bdbe4ce0fcaa35)
