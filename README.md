@@ -16,21 +16,11 @@
 
 ---
 
-## What I Do
+## What I Build
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  Building AI/ML systems & geospatial platforms that     │
-│  power infrastructure resilience, power grid            │
-│  intelligence, and enterprise data integration.         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-**ML & Computer Vision** • LiDAR processing, ONNX inference, production pipelines  
-**Geospatial Systems** • PostGIS, GIS applications, spatial analytics at scale  
-**Cloud Infrastructure** • AWS CDK, microservices, enterprise platforms
+**ML & Computer Vision** | LiDAR processing, ONNX inference, production pipelines  
+**Geospatial Systems** | PostGIS, GIS applications, spatial analytics at scale  
+**Cloud Infrastructure** | AWS CDK, microservices, enterprise platforms
 
 ---
 
