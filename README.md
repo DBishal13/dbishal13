@@ -7,7 +7,7 @@
 
 **ML & Computer Vision** | LiDAR, ONNX inference, production pipelines · **Geospatial** | PostGIS, GIS apps, spatial analytics · **Cloud** | AWS CDK, microservices, enterprise platforms
 
-**Projects:** [geospatial-data-copilot](https://github.com/DBishal13/geospatial-data-copilot) | [pywmp](https://github.com/DBishal13/pywmp) | [GEOG](https://github.com/DBishal13/GEOG) | [Lidar-Products-USGS3DEP](https://github.com/DBishal13/Lidar-Products-USGS3DEP)
+**Projects:** [geospatial-data-copilot](https://github.com/DBishal13/geospatial-data-copilot) | [pywmp](https://github.com/DBishal13/pywmp) | [Lidar-Products-USGS3DEP](https://github.com/DBishal13/Lidar-Products-USGS3DEP)
 
 ```mermaid
 graph LR
