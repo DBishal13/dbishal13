@@ -1,42 +1,118 @@
-### Welcome to my LinkedIn profile
-[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://dbishal13.github.io)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dbishal)
-<a href="https://www.coursera.org/learner/gisus" target="_blank">
-    <img src="https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/coursera-logo-full-rgb.2e16d0ba.fill-444x144.format-jpeg.jpg" alt="Coursera" style="width: 70px; height: 20px;">
-</a>
+# Hey there! 👋
 
-## Introduction
+**AI & Geospatial Systems Engineer** | Enterprise Data Platform Architect | ML Ops Specialist
 
-I’m an AI & Geospatial Data Scientist specializing in computer vision, GeoAI, and large‑scale geospatial systems. My work sits at the intersection of deep learning, LiDAR analytics, and cloud‑native geospatial engineering — building production‑grade pipelines that support power grid intelligence, infrastructure resilience, and enterprise‑level decision‑making.
-I lead development of end‑to‑end AI/ML workflows, including image recognition models, LiDAR/point‑cloud processing, and scalable geospatial data pipelines using Python, PyTorch/TensorFlow, PDAL, PostgreSQL/PostGIS, and AWS (Lambda, S3, EC2, SageMaker, ECR/ECS). I also architect and maintain GIS applications and APIs built on the Esri ecosystem, enabling interactive mapping, automated data ingestion, and high‑performance spatial analytics.
-My interests center on how GeoAI, remote sensing, and distributed geospatial systems can drive smarter infrastructure, environmental resilience, and equitable disaster response. I enjoy building tools that turn massive spatial datasets into actionable intelligence — from automated LiDAR classification to cloud‑optimized geospatial workflows and interactive web mapping solutions.
-I’m open to collaboration on projects involving GIS development, spatial data engineering, computer vision, and remote sensing. If you’re looking for someone who can design, build, and scale geospatial intelligence systems end‑to‑end, feel free to reach out.
+[![Website Badge](https://img.shields.io/badge/Portfolio-dbishal13.github.io-00C7B7?style=for-the-badge)](https://dbishal13.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@dbishal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dbishal)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-@DBishal13-181717?style=for-the-badge&logo=github)](https://github.com/DBishal13)
 
-## Featured Projects
+---
+
+## 🚀 About Me
+
+I'm an AI & Geospatial Data Scientist specializing in building **enterprise-scale systems** at the intersection of:
+- 🤖 **Deep Learning & Computer Vision** (PyTorch/TensorFlow, ONNX inference pipelines)
+- 🛰️ **GeoAI & Remote Sensing** (LiDAR analytics, point-cloud processing, utility equipment detection)
+- ☁️ **Cloud-Native Architecture** (AWS CDK, Lambda, SageMaker, containerized workflows)
+- 🗺️ **Geospatial Engineering** (PostGIS, Esri ecosystem, distributed data pipelines)
+
+I architect end-to-end **AI/ML workflows and data platforms** that power:
+- 🔌 **Power Grid Intelligence** — LiDAR-based utility detection & infrastructure resilience
+- 🌍 **Enterprise Data Integration** — Multi-tenant taxonomy alignment, quality validation, schema publishing
+- 📊 **API Operations** — Environment-aware console tooling with shared authentication layers
+- 🎯 **Scalable Analytics** — Cloud-optimized geospatial workflows serving stakeholders from ops to execs
+
+### Tech Stack
+**Languages**: Python, SQL, TypeScript, Shell  
+**ML/Data**: PyTorch, TensorFlow, PDAL, DuckDB, PostgreSQL/PostGIS  
+**Cloud**: AWS (Lambda, S3, EC2, SageMaker, ECR/ECS, CDK)  
+**Frontend**: React, Vite, Jupyter, ArcGIS (Esri ecosystem)  
+**DevOps**: Docker, Kubernetes, CI/CD, infrastructure-as-code
+
+## 🏆 Core Capabilities
+
+### Enterprise Architecture & Platform Engineering
+- **AWS CDK Framework** — Custom component abstractions for ML, data, and app workload deployments
+- **Data Integration Platforms** — End-to-end taxonomy alignment, schema publishing, quality validation, operational patch workflows
+- **API Operations Console** — Environment-aware CLI & web dashboard with shared auth and deployment tooling
+- **Schema Migration** — PostgreSQL migrations with source/target separation, dry-runs, and preflight validation
+- **Integration Boundaries** — Microservice-grade separation between API adapters, sync logic, and publishing interfaces
+
+### ML/AI & Computer Vision
+- **Object Detection Pipelines** — ONNX-based inference for utility equipment detection with COCO JSON outputs
+- **LiDAR & Point-Cloud Processing** — Classification, filtering, and spatial analysis at scale
+- **AI/ML Workflow Orchestration** — From training infrastructure to production inference
+- **Model Optimization** — Quantization, batching, and deployment strategies for edge/cloud
+
+### Geospatial Systems
+- **GIS Application Development** — React/TypeScript frontends with Esri ecosystem integration
+- **Spatial Analytics APIs** — FastAPI-based health checks, pagination, entity summaries
+- **Geospatial Sidecars** — Decoupled FastAPI services for heavy computational workloads
+- **Jupyter-Embedded GIS** — Full GIS app integration with two-way state sync for notebook workflows
+
+### Data Engineering & Analytics
+- **Scalable Data Pipelines** — Python, SQL, DuckDB for ETL/ELT with quality checks
+- **Quality & Remediation Layers** — Modular scripts for analysis, fixes, and patch orchestration
+- **Analytics Dashboards** — Health monitoring, entity metrics, stakeholder reporting
+
+---
+
+## 📌 Featured Enterprise Projects
+
+### 🔌 Cloud Infrastructure & Data Platforms
+- **Cloud Infrastructure Components** — AWS CDK framework with enterprise naming, tagging, and ML/app deployment abstractions
+- **Enterprise Data Integration Platform** — Modular Python/SQL/DuckDB platform for taxonomy alignment, schema publishing, and quality validation
+- **API Operations Console** — FastAPI + React, environment-aware API operations with shared auth and endpoint tooling
+- **Schema Migration Utility** — PostgreSQL CLI with source/target separation, dry runs, and validation
+
+### 🤖 ML & Geospatial Intelligence
+- **Utility Asset Detection Service** — ONNX-based object detection for power infrastructure with visualization
+- **Geospatial Processing Sidecar** — FastAPI service for advanced geo algorithms, runtimes, and format conversions
+- **Applied ML Project Template** — Data science workspace scaffold for experimentation and model lifecycle
+- **Analytics Summary API** — Focused API exposing health metrics, pagination, entity summaries
+
+### 🗺️ GIS & Mapping Applications
+- **Operator Workflow Frontend** — React/Vite TypeScript interface for lifecycle action validation
+- **Operations Dashboard Workstream** — ArcGIS runbooks, SQL/shell automation, and demo APIs
+- **Pre-Production Mapping API** — Local GIS demo environment with assignment workflows and status tracking
+- **Notebook-Embedded GIS Widget** — Jupyter integration with full app + two-way state sync
+
+### 📊 Public & Academic Projects
 - [Watershed Management Plan for Sarasota City, FL](https://storymaps.arcgis.com/stories/a4a1197b765e4cfbb8bdbe4ce0fcaa35)
+- [Managing Public Transportation Data – Broward County](https://github.com/DBishal13/GTFS_BrowardCounty)
+- [GIS & Climate Change Solutions](https://storymaps.arcgis.com/stories/548bdbe9801d4c01a894ffd7b5f58472)
+- [Florida Air Pollution Visualization (PM2.5)](https://github.com/DBishal13/Air-Pollution-in-Florida)
+- [Voter Turnout Prediction Model (2016)](https://github.com/DBishal13/Voter-Turnout-Prediction-Florida)
+- [Agricultural Land Suitability Analysis](https://github.com/DBishal13/AgriculturalSuitability)
+- [Corporate HQ Location Analysis (Carbon Footprint)](https://github.com/DBishal13/Suitability-Analysis-Headquarters)
+- [COVID-19 Geo-Visualization Dashboard](https://github.com/DBishal13/Covid19-GeoVisualisation)
 
-- [Managing Public Transportation Data and Visualization for Broward County](https://github.com/DBishal13/GTFS_BrowardCounty)
+---
 
-- [Using GIS to address climate change](https://storymaps.arcgis.com/stories/548bdbe9801d4c01a894ffd7b5f58472).
+## 🎯 What I'm Working On
+- Scaling geospatial ML systems for real-time infrastructure monitoring
+- Advancing remote sensing techniques for utility grid resilience
+- Building platform abstractions that make complex data systems accessible
+- Bridging ML ops and GIS workflows for enterprise stakeholders
 
-- [Visualization of Florida PM2.5 Daily Average](https://github.com/DBishal13/Air-Pollution-in-Florida).
+---
 
-- [Predictive Modeling of Voter Turnout (2016) Distribution](https://github.com/DBishal13/Voter-Turnout-Prediction-Florida).
+## 💬 Let's Collaborate
+I'm always interested in discussing:
+- 🏗️ Enterprise platform architecture & infrastructure-as-code
+- 🤖 Production ML/AI systems and model deployment
+- 🛰️ Geospatial intelligence and remote sensing applications
+- 🌐 Full-stack geospatial applications (API + frontend + analytics)
+- 📊 Data-driven decision-making and spatial analytics
 
-- [Agricultural Land Suitability Analysis Based on Physical Factors](https://github.com/DBishal13/AgriculturalSuitability).
+**📧 Reach out if you're building:** AI/ML platforms, geospatial systems, GIS applications, or data infrastructure at scale.
 
-- [Managing Public Transportation Data and Visualization](https://github.com/DBishal13/GTFS_BrowardCounty).
+---
 
-- [Assessing Suitable Locations for Corporate Headquarters with Minimal Carbon Footprint](https://github.com/DBishal13/Suitability-Analysis-Headquarters).
+<div align="center">
 
-- [Covid19-GeoVisualisation](https://github.com/DBishal13/Covid19-GeoVisualisation).
+**Building systems that turn spatial data into intelligence 🌍**
 
-- [Data-Engineering-and-Visualization](https://github.com/DBishal13/Data-Engineering-and-Vizualization).
+[![Portfolio](https://img.shields.io/badge/Check%20Out-My%20Portfolio-00C7B7?style=flat-square)](https://dbishal13.github.io)
 
-- [Story of US Population Change](https://storymaps.arcgis.com/stories/985a8596339b4c2fb7059dd308d45f84).
-
-- [Historic Natural Disasters](https://experience.arcgis.com/experience/7bbef03b4c6440aaa8c1046a3d37f82b/).
-
-- [ArcGIS_Raster_Layout](https://github.com/DBishal13/ArcGIS_Raster_Layout).
-
-
+</div>
