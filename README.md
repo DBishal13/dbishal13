@@ -40,20 +40,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBishal13&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/DBishal13)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DBishal13&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/DBishal13)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DBishal13&theme=dark&hide_border=true)](https://github.com/DBishal13)
-
-</div>
-
----
-
 ## 🏗️ Architecture & Expertise
 
 ```mermaid
