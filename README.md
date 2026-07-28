@@ -63,14 +63,18 @@ graph LR
 
 ## 🚀 Featured Projects
 
+_Auto-updated daily from my most recently active repos — see [update-projects.yml](.github/workflows/update-projects.yml)._
+
+<!-- FEATURED-PROJECTS:START -->
 | Project | Description |
 |---|---|
-| [**geospatial-data-copilot**](https://github.com/DBishal13/geospatial-data-copilot) | Natural-language interface over spatial/infrastructure data — an LLM agent turns plain-English questions into spatial SQL, runs them, and answers with an interactive map. |
-| [**hazard-mcp**](https://github.com/DBishal13/hazard-mcp) | An MCP server unifying FEMA, USGS, NOAA, NWS, and NASA hazard APIs behind a single agent-facing interface. |
-| [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | Data-engineering + geospatial-analytics platform for GTFS transit feeds, with an interactive map app deployed to GitHub Pages. |
-| [**surge-exposure**](https://github.com/DBishal13/surge-exposure) | Pipeline overlaying NOAA storm-surge and flood layers against building footprints to score infrastructure exposure. |
-| [**3DEP-Lidar-Terrain-Builder**](https://github.com/DBishal13/3DEP-Lidar-Terrain-Builder) | Generates DEM, DSM, hillshade, slope, aspect, and contour products from USGS 3DEP lidar for any AOI. |
-| [**conversational-ai-assistant**](https://github.com/DBishal13/conversational-ai-assistant) | LangChain RAG chatbot grounding multi-turn answers in a local Chroma vector store, with source citations. |
+| [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | A generalized data-engineering and geospatial-analytics platform for GTFS transit feeds — ingest any agency's schedule data, run real spatial and service-quality analysis on it, and explore the resul… |
+| [**GeoCoder**](https://github.com/DBishal13/GeoCoder) | Tools for turning a spreadsheet of US street addresses into geocoded points (and optionally OSM building footprint polygons), using the free Nominatim and Overpass OpenStreetMap APIs. No API key requ… |
+| [**3DEP-Lidar-Terrain-Builder**](https://github.com/DBishal13/3DEP-Lidar-Terrain-Builder) | Generate DEM, DSM, hillshade, slope, aspect, and contour products from USGS 3D Elevation Program (3DEP) lidar for a user-defined area of interest (AOI). |
+| [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | Extract road centerlines from polygon geometries (road contours) — worldwide, in any input CRS, in any format geopandas can read or write. |
+| [**hazard-mcp**](https://github.com/DBishal13/hazard-mcp) | An MCP server (Python, FastMCP) that unifies multiple US hazard APIs behind a single agent-facing interface: OpenFEMA disaster declarations + NFIP claims, USGS earthquake GeoJSON feeds, NOAA NWPS riv… |
+| [**surge-exposure**](https://github.com/DBishal13/surge-exposure) | A reproducible data-engineering pipeline that ingests NOAA National Storm Surge Risk (MEOW/MOM) layers and NOAA NWPS flood-inundation polygons, overlays them against building/infrastructure footprint… |
+<!-- FEATURED-PROJECTS:END -->
 
 ## 🐍 Contribution Snake
 
