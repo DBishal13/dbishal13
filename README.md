@@ -68,12 +68,12 @@ _Auto-updated daily from my most recently active repos — see [update-projects.
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description |
 |---|---|
-| [**3d-export**](https://github.com/DBishal13/3d-export) | A Python-first tool to generate land cover exports and quickly create a 3D-style PNG from Sentinel-2 land cover tiles.  Inspired by the original rayshader R workflow. |
+| [**3d-export**](https://github.com/DBishal13/3d-export) | A Python-first tool to generate land cover exports and quickly create a 3D-style PNG from Sentinel-2 land cover tiles. Inspired by the original rayshader R workflow. |
+| [**RomanNepaliAI**](https://github.com/DBishal13/RomanNepaliAI) | Tools for working with Nepali text in three directions: transliteration (romanized Nepali ↔ Devanagari script, same language) and translation (Nepali ↔ English, different languages). Built for subtit… |
 | [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | A generalized data-engineering and geospatial-analytics platform for GTFS transit feeds — ingest any agency's schedule data, run real spatial and service-quality analysis on it, and explore the resul… |
 | [**GeoCoder**](https://github.com/DBishal13/GeoCoder) | Tools for turning a spreadsheet of US street addresses into geocoded points (and optionally OSM building footprint polygons), using the free Nominatim and Overpass OpenStreetMap APIs. No API key requ… |
 | [**3DEP-Lidar-Terrain-Builder**](https://github.com/DBishal13/3DEP-Lidar-Terrain-Builder) | Generate DEM, DSM, hillshade, slope, aspect, and contour products from USGS 3D Elevation Program (3DEP) lidar for a user-defined area of interest (AOI). |
 | [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | Extract road centerlines from polygon geometries (road contours) — worldwide, in any input CRS, in any format geopandas can read or write. |
-| [**hazard-mcp**](https://github.com/DBishal13/hazard-mcp) | An MCP server (Python, FastMCP) that unifies multiple US hazard APIs behind a single agent-facing interface: OpenFEMA disaster declarations + NFIP claims, USGS earthquake GeoJSON feeds, NOAA NWPS riv… |
 <!-- FEATURED-PROJECTS:END -->
 
 ## 🐍 Contribution Snake
