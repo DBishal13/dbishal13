@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@dbishal-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbishal)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4514--9215-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4514-9215)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Lhv0gcEAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Lhv0gcEAAAAJ)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-dhunganab-1E90FF?style=for-the-badge&logo=researchgate&logoColor=white)](https://sciprofiles.com/profile/dhunganab)
 [![Email](https://img.shields.io/badge/Email-beesal13dh@gmail.com-9D00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beesal13dh@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DBishal13&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS)
