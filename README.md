@@ -1,13 +1,15 @@
 <picture>
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%20There,%20I'm%20Bishal%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Geospatial%20Data%20Scientist%20%7C%20AI%2FML%20Systems%20%7C%20Enterprise%20Data%20Platforms&descAlignY=55&descSize=18&animation=fadeIn&color=0:0D1117,50:6A00FF,100:00F5FF" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%20There,%20I'm%20Bishal%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Geospatial%20Data%20Scientist%20%7C%20AI%20%7C%20Cloud&descAlignY=62&color=0:FF00FF,50:00F5FF,100:0D1117" />
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Geospatial+Data+Scientist+%F0%9F%8C%8D;AI+%2F+ML+Systems+Engineer+%F0%9F%A4%96;Building+Enterprise+Data+Platforms+%E2%98%81%EF%B8%8F;Turning+Satellites+%2B+LiDAR+into+Insight+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Geospatial+Data+Scientist+%F0%9F%9B%B0;Building+Agentic+AI+Systems+%F0%9F%A4%96;LLM+Copilots+%26+Spatial+APIs+%E2%98%81%EF%B8%8F)](https://dbishal13.github.io)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dbishal13.github.io-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dbishal13.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@dbishal-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbishal)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4514--9215-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4514-9215)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Lhv0gcEAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Lhv0gcEAAAAJ)
 [![Email](https://img.shields.io/badge/Email-beesal13dh@gmail.com-9D00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beesal13dh@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DBishal13&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS)
@@ -52,8 +54,8 @@ graph LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DBishal13&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&ring_color=9D00FF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=DBishal13&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DBishal13&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=DBishal13&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=C9D1D9" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBishal13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" />
 
@@ -68,12 +70,12 @@ _Auto-updated daily from my most recently active repos — see [update-projects.
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description |
 |---|---|
-| [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | Extract road centerlines from polygon geometries (road contours) — worldwide, in any input CRS, in any format geopandas can read or write. |
-| [**surge-exposure**](https://github.com/DBishal13/surge-exposure) | A reproducible data-engineering pipeline that ingests NOAA National Storm Surge Risk (MEOW/MOM) layers and NOAA NWPS flood-inundation polygons, overlays them against building/infrastructure footprint… |
-| [**3d-export**](https://github.com/DBishal13/3d-export) | A Python-first tool to generate land cover exports and quickly create a 3D-style PNG from Sentinel-2 land cover tiles. Inspired by the original rayshader R workflow. |
-| [**RomanNepaliAI**](https://github.com/DBishal13/RomanNepaliAI) | Tools for working with Nepali text in three directions: transliteration (romanized Nepali ↔ Devanagari script, same language) and translation (Nepali ↔ English, different languages). Built for subtit… |
-| [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | A generalized data-engineering and geospatial-analytics platform for GTFS transit feeds — ingest any agency's schedule data, run real spatial and service-quality analysis on it, and explore the resul… |
-| [**GeoCoder**](https://github.com/DBishal13/GeoCoder) | Tools for turning a spreadsheet of US street addresses into geocoded points (and optionally OSM building footprint polygons), using the free Nominatim and Overpass OpenStreetMap APIs. No API key requ… |
+| [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | Extract road centerlines from polygon geometries (road contours) — worldwide, in any input CRS, in any format geopandas can read. |
+| [**surge-exposure**](https://github.com/DBishal13/surge-exposure) | A reproducible data-engineering pipeline that ingests NOAA National Storm Surge Risk (MEOW/MOM) layers and NOAA NWPS flood-inundation forecasts, unifies them on a common grid, and serves vector tiles. |
+| [**3d-export**](https://github.com/DBishal13/3d-export) | A Python-first tool to generate land cover exports and quickly create a 3D-style PNG from Sentinel-2 land cover tiles. Inspired by the oblique map style of Google Maps. |
+| [**RomanNepaliAI**](https://github.com/DBishal13/RomanNepaliAI) | Tools for working with Nepali text in three directions: transliteration (romanized Nepali ↔ Devanagari script, same language), OCR, and script classification. |
+| [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | A generalized data-engineering and geospatial-analytics platform for GTFS transit feeds — ingest any agency's GTFS, serve live transit analytics. |
+| [**GeoCoder**](https://github.com/DBishal13/GeoCoder) | Tools for turning a spreadsheet of US street addresses into geocoded points (and optionally OSM building footprint polygons), using the free Nominatim geocoder. |
 <!-- FEATURED-PROJECTS:END -->
 
 ## 🐍 Contribution Snake
