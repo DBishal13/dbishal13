@@ -71,12 +71,12 @@ _Auto-updated daily from my most recently active repos — see [update-projects.
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description |
 |---|---|
+| [**wildfire-copilot**](https://github.com/DBishal13/wildfire-copilot) | Agentic RAG over Wildfire Risk & Utility Vegetation Data |
 | [**surge-exposure**](https://github.com/DBishal13/surge-exposure) | A reproducible data-engineering pipeline that ingests NOAA National Storm Surge Risk (MEOW/MOM) layers and NOAA NWPS flood-inundation polygons, overlays them against building/infrastructure footprint… |
 | [**compound-risk-pbc**](https://github.com/DBishal13/compound-risk-pbc) | A small client-side web application for visualizing compound risk (probability-based combination) using interactive charts and a lightweight UI. |
 | [**gtfs-transit-platform**](https://github.com/DBishal13/gtfs-transit-platform) | A generalized data-engineering and geospatial-analytics platform for GTFS transit feeds — ingest any agency's schedule data, run real spatial and service-quality analysis on it, and explore the resul… |
 | [**fv-gwr**](https://github.com/DBishal13/fv-gwr) | Analysis code for Urban–Rural Exposure to Flood Hazard and Social Vulnerability in the Conterminous United States. |
 | [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | Extract road centerlines from polygon geometries (road contours) — worldwide, in any input CRS, in any format geopandas can read or write. |
-| [**3d-export**](https://github.com/DBishal13/3d-export) | A Python-first tool to generate land cover exports and quickly create a 3D-style PNG from Sentinel-2 land cover tiles. Inspired by the original rayshader R workflow. |
 <!-- FEATURED-PROJECTS:END -->
 
 ## 🐍 Contribution Snake
