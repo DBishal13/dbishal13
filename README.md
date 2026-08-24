@@ -55,14 +55,18 @@ graph LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DBishal13&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=DBishal13&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBishal13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=DBishal13&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=8&margin-h=8" />
-
 </div>
+
+<!--
+The main stats card, top-langs card, and trophy image (github-readme-stats.vercel.app
+and github-profile-trophy.vercel.app) are removed for now — both shared demo
+deployments are down (DEPLOYMENT_PAUSED / DEPLOYMENT_DISABLED as of 2026-08-24),
+which is an outage on the maintainers' free Vercel hosting, not specific to this
+profile. Re-add them if/when those come back, or switch to a self-hosted fork:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
 ## 🚀 Featured Projects
 
