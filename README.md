@@ -76,11 +76,11 @@ _Auto-updated daily from my most recently active repos — see [update-projects.
 | Project | Description |
 |---|---|
 | [**SurgeExposure**](https://github.com/DBishal13/surge-exposure) | A cloud-native pipeline overlaying NOAA storm-surge and flood-inundation data against Overture Maps building footprints, scoring per-asset flood exposure across 8 coastal regions — with a map and API. |
+| [**fflood-nep**](https://github.com/DBishal13/fflood-nep) | A reproducible flood-response pipeline for Nepal's August 2026 Rasuwa/Bhote Koshi flash flood — runs Sentinel-1 SAR change detection for flood extent, scores building/road/facility exposure by munici… |
 | [**wildfire-copilot**](https://github.com/DBishal13/wildfire-copilot) | A LangGraph agent for utility wildfire risk — combines a trained XGBoost susceptibility model with live NASA/NWS hazard feeds and RAG over real wildfire-mitigation filings to answer plain-English ris… |
 | [**geomlint**](https://github.com/DBishal13/geomlint) | A CI-first data-quality linter for vector geospatial files — catches invalid geometry, CRS confusion, and topology errors that mainstream data-observability tools skip. No GDAL required; pip install… |
 | [**Geospatial Data Copilot**](https://github.com/DBishal13/geospatial-data-copilot) | Ask a plain-English question about San Francisco's utility infrastructure — a local LLM agent (LangGraph ReAct, Ollama) translates it to spatial SQL, runs it, and answers with a summary and interacti… |
 | [**HazardMCP**](https://github.com/DBishal13/hazard-mcp) | An MCP server unifying FEMA, USGS, NOAA, NWS, and NASA hazard data behind a single AI-agent interface — one-call location risk summaries and map rendering, compatible with Claude Desktop. |
-| [**Road-Centerline**](https://github.com/DBishal13/Road-Centerline) | A published Python package that extracts road centerlines from polygon geometries — worldwide, in any input CRS, in any format GeoPandas can read. CLI and Python API, computed via medial-axis skeleto… |
 <!-- FEATURED-PROJECTS:END -->
 
 ## 🐍 Contribution Snake
